@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DesktopSearch">
+</Property><Property Name="解决方案文件" Value="E:\Dropbox\QT\DesktopSearch2010\DesktopSearch.sln">
+</Property><Property Name="Date" Value="2012年10月11日">
+</Property><Property Name="Time" Value="15:46">
+</Property></Properties><Event ErrorLevel="0" Project="DesktopSearch" Source="DesktopSearch.vcproj" Description="Converting project file 'E:\Dropbox\QT\DesktopSearch2010\DesktopSearch.vcproj'.">
+</Event><Event ErrorLevel="1" Project="DesktopSearch" Source="DesktopSearch.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="DesktopSearch" Source="DesktopSearch.vcproj" Description="Done converting to new project file 'E:\Dropbox\QT\DesktopSearch2010\DesktopSearch.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="DesktopSearch" Source="DesktopSearch.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DesktopSearch.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="DesktopSearch.sln" Description="Converted">
+</Event></UpgradeLog>

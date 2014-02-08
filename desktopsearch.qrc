@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/DesktopSearch">
+    <file>Design/Plane.png</file>
+    <file>Resources/tableSelectRowBackground.png</file>
+    <file>Resources/shadow.png</file>
+    <file>Resources/shadowRight.png</file>
+    <file>Design/SearchBtn.png</file>
+    <file>Design/es.exe</file>
+    <file>Design/mainBack.png</file>
+    <file>Design/SearchBarBack.png</file>
+    <file>Design/SearchBarBackActive.png</file>
+  </qresource>
+</RCC>

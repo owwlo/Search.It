@@ -1,0 +1,51 @@
+﻿生成启动时间为 2012/10/11 18:20:24。
+     1>项目“E:\Dropbox\QT\DesktopSearch2010\DesktopSearch.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“E:\Dropbox\QT\DesktopSearch2010\Release\DesktopSearch.unsuccessfulbuild”执行 Touch 任务。
+       CustomBuild:
+         所有输出均为最新。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"E:\Dropbox\QT\DesktopSearch2010\Release\DesktopSearch.exe.embed.manifest.res" E:\Dropbox\QT\DesktopSearch2010\Release\DesktopSearch_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Dropbox\QT\DesktopSearch2010\Release\DesktopSearch.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Qt\4.8.3\lib qtmain.lib QtCore4.lib QtGui4.lib Imm32.lib Ws2_32.lib winmm.lib QtSql4.lib ICTCLAS50.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"E:\Dropbox\QT\DesktopSearch2010\Release\DesktopSearch.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"E:\Dropbox\QT\DesktopSearch2010\Release\DesktopSearch.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Dropbox\QT\DesktopSearch2010\Release\DesktopSearch.lib" /MACHINE:X86 E:\Dropbox\QT\DesktopSearch2010\Release\DesktopSearch.exe.embed.manifest.res
+         E:\Dropbox\QT\DesktopSearch2010\Release\csearchhelper.obj
+         E:\Dropbox\QT\DesktopSearch2010\Release\csqliteindexguard.obj
+         E:\Dropbox\QT\DesktopSearch2010\Release\ctraversemft.obj
+         E:\Dropbox\QT\DesktopSearch2010\Release\desktopsearch.obj
+         E:\Dropbox\QT\DesktopSearch2010\Release\FTSOperator.obj
+         E:\Dropbox\QT\DesktopSearch2010\Release\main.obj
+         E:\Dropbox\QT\DesktopSearch2010\Release\qrc_desktopsearch.obj
+         E:\Dropbox\QT\DesktopSearch2010\Release\moc_csearchhelper.obj
+         E:\Dropbox\QT\DesktopSearch2010\Release\moc_csqliteindexguard.obj
+         E:\Dropbox\QT\DesktopSearch2010\Release\moc_ctraversemft.obj
+         E:\Dropbox\QT\DesktopSearch2010\Release\moc_desktopsearch.obj
+         E:\Dropbox\QT\DesktopSearch2010\Release\moc_FTSOperator.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"E:\Dropbox\QT\DesktopSearch2010\Release\DesktopSearch.exe.embed.manifest" /manifest E:\Dropbox\QT\DesktopSearch2010\Release\DesktopSearch.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"E:\Dropbox\QT\DesktopSearch2010\Release\DesktopSearch.exe.embed.manifest.res" E:\Dropbox\QT\DesktopSearch2010\Release\DesktopSearch_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Dropbox\QT\DesktopSearch2010\Release\DesktopSearch.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Qt\4.8.3\lib qtmain.lib QtCore4.lib QtGui4.lib Imm32.lib Ws2_32.lib winmm.lib QtSql4.lib ICTCLAS50.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"E:\Dropbox\QT\DesktopSearch2010\Release\DesktopSearch.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"E:\Dropbox\QT\DesktopSearch2010\Release\DesktopSearch.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Dropbox\QT\DesktopSearch2010\Release\DesktopSearch.lib" /MACHINE:X86 E:\Dropbox\QT\DesktopSearch2010\Release\DesktopSearch.exe.embed.manifest.res
+         E:\Dropbox\QT\DesktopSearch2010\Release\csearchhelper.obj
+         E:\Dropbox\QT\DesktopSearch2010\Release\csqliteindexguard.obj
+         E:\Dropbox\QT\DesktopSearch2010\Release\ctraversemft.obj
+         E:\Dropbox\QT\DesktopSearch2010\Release\desktopsearch.obj
+         E:\Dropbox\QT\DesktopSearch2010\Release\FTSOperator.obj
+         E:\Dropbox\QT\DesktopSearch2010\Release\main.obj
+         E:\Dropbox\QT\DesktopSearch2010\Release\qrc_desktopsearch.obj
+         E:\Dropbox\QT\DesktopSearch2010\Release\moc_csearchhelper.obj
+         E:\Dropbox\QT\DesktopSearch2010\Release\moc_csqliteindexguard.obj
+         E:\Dropbox\QT\DesktopSearch2010\Release\moc_ctraversemft.obj
+         E:\Dropbox\QT\DesktopSearch2010\Release\moc_desktopsearch.obj
+         E:\Dropbox\QT\DesktopSearch2010\Release\moc_FTSOperator.obj
+         DesktopSearch.vcxproj -> E:\Dropbox\QT\DesktopSearch2010\Release\DesktopSearch.exe
+       FinalizeBuildStatus:
+         正在删除文件“E:\Dropbox\QT\DesktopSearch2010\Release\DesktopSearch.unsuccessfulbuild”。
+         正在对“E:\Dropbox\QT\DesktopSearch2010\Release\DesktopSearch.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\Dropbox\QT\DesktopSearch2010\DesktopSearch.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.69
